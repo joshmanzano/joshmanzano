@@ -1,4 +1,7 @@
-### Hi there 👋
+- 🏠 [manzano.tech](https://www.manzano.tech)
+- 📫 josh@manzano.tech
+
+
 
 <!--
 **joshmanzano/joshmanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
