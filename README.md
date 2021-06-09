@@ -7,6 +7,7 @@
 - USDT: 0x1431bd312b909440118180a1fa0483cea7cd732a
 - BUSD: 0x1431bd312b909440118180a1fa0483cea7cd732a
 - XMR: 44dUgEurcA9TNR32okLoKUWrFtKHh6ZXkdwjfEk73TMYiTKtbAchvoY6PheiN5F4vFJYgaF3n2iGx61QUmgPjGAcP3SPLBv
+- BAN: ban_3c6spi5swqkrio3ij3p8tgwrqwo454t7pa1k7xyaz6cr5xiakn1e98uwnzae
 
 - ERC-20 (Metamask): 
 - BSC (Metamask):
