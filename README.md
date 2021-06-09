@@ -9,6 +9,7 @@
 - XMR: 44dUgEurcA9TNR32okLoKUWrFtKHh6ZXkdwjfEk73TMYiTKtbAchvoY6PheiN5F4vFJYgaF3n2iGx61QUmgPjGAcP3SPLBv
 - BAN: ban_3c6spi5swqkrio3ij3p8tgwrqwo454t7pa1k7xyaz6cr5xiakn1e98uwnzae
 - BAN: ban_3p5y8foowi5b3s8yotwwkuuma5m9guocifd4nj9ujma766tit61c6ak6dp3y
+- BAN: ban_14ugqk6zgj69uxkpwdm5zqfgxx93z6ia8a61ace14t9t83hua6n8b5rb38cr
 
 - ERC-20 (Metamask): 
 - BSC (Metamask):
