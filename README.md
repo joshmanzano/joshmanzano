@@ -10,6 +10,8 @@
 - BAN: ban_3c6spi5swqkrio3ij3p8tgwrqwo454t7pa1k7xyaz6cr5xiakn1e98uwnzae
 - BAN: ban_3p5y8foowi5b3s8yotwwkuuma5m9guocifd4nj9ujma766tit61c6ak6dp3y
 - BAN: ban_14ugqk6zgj69uxkpwdm5zqfgxx93z6ia8a61ace14t9t83hua6n8b5rb38cr
+- NEXO (ERC-20): 0x84be3486D68619BDB127912A16Df39031171d74d
+- NEXO (BEP-20): bnb1q4zmsq69rnq2jt3p2d9rady0earec7cfvyzjk5 3126930
 
 - ERC-20 (Metamask): 
 - BSC (Metamask):
