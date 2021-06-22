@@ -16,9 +16,7 @@
 
 - ERC-20 (Metamask): 
 - BSC (Metamask):
-- ADA: addr1q8pxmv7p2lqp0zd3j4lp8usnkd88gspws6zpz52htrlyvfdppmwg7t35awqjsj7h8mhznvsttrzh59xynvhse7z5598qnczenq
-- STORJ: 0x40253b62436cEF4E2872B8Bd4065f48626d6189D
-- GLM: 0xF55dC9960B1AF3280cA1d34F140879D8f38bBe39
+- ADA: addr1q9g60pa2tdvly4kg3ssdhe2sxfeme4cxd6wd0s9nrf2umrl0x7rzj0z9nzwwqs64au6f87m872fxp02w34yk5n5zt2kqw3fuac
 
 <!--
 **joshmanzano/joshmanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
