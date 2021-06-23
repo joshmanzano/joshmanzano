@@ -14,8 +14,7 @@
 - NEXO (ERC-20): 0x84be3486D68619BDB127912A16Df39031171d74d
 - NEXO (BEP-20): bnb1q4zmsq69rnq2jt3p2d9rady0earec7cfvyzjk5 3126930
 
-- ERC-20 (Metamask): 
-- BSC (Metamask):
+- Metamask: 0xc3deE9Bc7871eec231a362F543a6CCDE07b01f4f
 - ADA: addr1q9g60pa2tdvly4kg3ssdhe2sxfeme4cxd6wd0s9nrf2umrl0x7rzj0z9nzwwqs64au6f87m872fxp02w34yk5n5zt2kqw3fuac
 
 <!--
