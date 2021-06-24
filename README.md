@@ -5,14 +5,17 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Anyone can claim to be me. There's no validation of identity when a statement is made online or in paper. By signing my messages using this technique, anyone can independently verify that I was the author of the message by validating the signature.
+Anyone can claim to be me.
+There's no validation of identity when a statement is made online or in paper.
+By signing my messages using this technique, anyone can independently verify
+that I was the author of the message by validating the signature.
 -----BEGIN PGP SIGNATURE-----
 
-iJQEARMKADwWIQTRJVklGGYwbHXLnAskv4oyD+06wwUCYNS3Gx4cam9zaHVhY2Fw
-dWxlbWFuemFub0BnbWFpbC5jb20ACgkQJL+KMg/tOsP2QgD/X0F63hxhXRneVIvm
-0JrsMgDFpYWqWrJ4KAAKOEVHQDgA/inf61AxDdejSKo6vGwS48pzwZUhe3AxzWTG
-E3y5n+PC
-=bC4m
+iJQEARMKADwWIQTRJVklGGYwbHXLnAskv4oyD+06wwUCYNS5xB4cam9zaHVhY2Fw
+dWxlbWFuemFub0BnbWFpbC5jb20ACgkQJL+KMg/tOsOT6wD+K65T7A6nwfgy15Zr
+UpBJdcihZQvl3bM3GUQzBG575REA/1sYOe0W/4e2UPaGji0QXjTnn04+dza9/hX2
+vlnwYnb+
+=YhyR
 -----END PGP SIGNATURE-----
 ```
 ```
