@@ -1,6 +1,35 @@
 - 🏠 [manzano.tech](https://www.manzano.tech)
 - 📫 josh@manzano.tech
 
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Anyone can claim to be me. There's no validation of identity when a statement is made online or in paper. By signing my messages using this technique, anyone can independently verify that I was the author of the message by validating the signature.
+-----BEGIN PGP SIGNATURE-----
+
+iJQEARMKADwWIQTRJVklGGYwbHXLnAskv4oyD+06wwUCYNS3Gx4cam9zaHVhY2Fw
+dWxlbWFuemFub0BnbWFpbC5jb20ACgkQJL+KMg/tOsP2QgD/X0F63hxhXRneVIvm
+0JrsMgDFpYWqWrJ4KAAKOEVHQDgA/inf61AxDdejSKo6vGwS48pzwZUhe3AxzWTG
+E3y5n+PC
+=bC4m
+-----END PGP SIGNATURE-----
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mFIEAAAAABMIKoZIzj0DAQcCAwQAYcYar5khDhArakRGMfx9XjZDEDJLJtksYF+i
+O9KCNHRDtpe6gdsJFZdKfDZPhaPFNa+Liq3eah9Hqfvb+SrrtDVKb3NodWEgQ2Fw
+dWxlIE1hbnphbm8gPGpvc2h1YWNhcHVsZW1hbnphbm9AZ21haWwuY29tPoiABBMT
+CAAcBQIAAAAAAgsJAhsDBBUICQoEFgIDAQIXgAIeAQAWCRAkv4oyD+06wwsaVFJF
+Wk9SLUdQR5SPAP0QcepbXGszyR1RrczdxHLunX6EDU5XcCuVNe5fk4dr4AD9GaXs
+Rnx4Zbf8DOmXshSJa0pSlKUbCpvyjErFtHWomS64VgQAAAAAEggqhkjOPQMBBwID
+BKJHp++uUBVFG5rpMTQ4Xj7eIi1zsyiiLXVvW4mGjkxagz9KbmPY4OYnh3pTGgS5
+qpN/6xMc4vK7oLEoLRGmshsDAQgHiG0EGBMIAAkFAgAAAAACGwwAFgkQJL+KMg/t
+OsMLGlRSRVpPUi1HUEdnUgD+NCnIcbCc86lSqbA295ufqsElYJXoa3Pc0NsJ3PZy
+QcQA/3GyEnpV9Vtkkrdm0YJ8dFeDsN8T8R97vUhKsAZLLwZx
+=FLpL
+
+-----END PGP PUBLIC KEY BLOCK-----
+
 - BTC: 3HXQEN5qMULwFvcaUJ2okbu63DgKdK5Sp5
 - ETH: 0x1431bd312b909440118180a1fa0483cea7cd732a
 - LTC: MTWXXUrGiGgiMo6rcKdTB5sHH1cbvfGyPE
