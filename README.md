@@ -36,6 +36,9 @@ QcQA/3GyEnpV9Vtkkrdm0YJ8dFeDsN8T8R97vUhKsAZLLwZx
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 ```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 BTC: 3HXQEN5qMULwFvcaUJ2okbu63DgKdK5Sp5
 ETH: 0x1431bd312b909440118180a1fa0483cea7cd732a
 LTC: MTWXXUrGiGgiMo6rcKdTB5sHH1cbvfGyPE
@@ -51,6 +54,14 @@ BAN: ban_14ugqk6zgj69uxkpwdm5zqfgxx93z6ia8a61ace14t9t83hua6n8b5rb38cr
 Metamask: 0xc3deE9Bc7871eec231a362F543a6CCDE07b01f4f
 XMR: 49Anwa6SJR2WDRzfVsviNYjeSyf1mAZesUKcFLBgWiqzcZvPn1LhxAT9HxnNrb6ajvPf6DR8f2DZ3fi4FZQnxd4BLTZEGXt
 ADA: addr1q9g60pa2tdvly4kg3ssdhe2sxfeme4cxd6wd0s9nrf2umrl0x7rzj0z9nzwwqs64au6f87m872fxp02w34yk5n5zt2kqw3fuac
+-----BEGIN PGP SIGNATURE-----
+
+iJQEARMKADwWIQTRJVklGGYwbHXLnAskv4oyD+06wwUCYNYdKx4cam9zaHVhY2Fw
+dWxlbWFuemFub0BnbWFpbC5jb20ACgkQJL+KMg/tOsN2kAEAr/clEEfj0xc2tDDJ
+TS1CKboZTDa1UHFFvi42F8uMjegA/1DIBcuO5LFDB+uePNpzTAWAkQypWqBCRqfH
+RFfeC+wK
+=hp0Y
+-----END PGP SIGNATURE-----
 ```
 <!--
 **joshmanzano/joshmanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
