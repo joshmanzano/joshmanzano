@@ -54,6 +54,7 @@ BAN: ban_14ugqk6zgj69uxkpwdm5zqfgxx93z6ia8a61ace14t9t83hua6n8b5rb38cr
 Metamask: 0xc3deE9Bc7871eec231a362F543a6CCDE07b01f4f
 XMR: 49Anwa6SJR2WDRzfVsviNYjeSyf1mAZesUKcFLBgWiqzcZvPn1LhxAT9HxnNrb6ajvPf6DR8f2DZ3fi4FZQnxd4BLTZEGXt
 ADA: addr1q9g60pa2tdvly4kg3ssdhe2sxfeme4cxd6wd0s9nrf2umrl0x7rzj0z9nzwwqs64au6f87m872fxp02w34yk5n5zt2kqw3fuac
+XTZ: tz1LyHKpuy3HTic2Kf8sz9ey1KRxdDVrFyWh
 -----BEGIN PGP SIGNATURE-----
 
 iJQEARMKADwWIQTRJVklGGYwbHXLnAskv4oyD+06wwUCYNYdKx4cam9zaHVhY2Fw
