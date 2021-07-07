@@ -39,11 +39,13 @@ QcQA/3GyEnpV9Vtkkrdm0YJ8dFeDsN8T8R97vUhKsAZLLwZx
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
+BlockFi
 BTC: 3HXQEN5qMULwFvcaUJ2okbu63DgKdK5Sp5
 ETH: 0x1431bd312b909440118180a1fa0483cea7cd732a
 LTC: MTWXXUrGiGgiMo6rcKdTB5sHH1cbvfGyPE
-USDT: 0x1431bd312b909440118180a1fa0483cea7cd732a
-BUSD: 0x1431bd312b909440118180a1fa0483cea7cd732a
+USDT, DAI, BAT, USDC, BUSD: 0x1431bd312b909440118180a1fa0483cea7cd732a
+
+Nexo.io
 NEXO (ERC-20): 0x84be3486D68619BDB127912A16Df39031171d74d
 NEXO (BEP-20): bnb1q4zmsq69rnq2jt3p2d9rady0earec7cfvyzjk5 3126930
 
@@ -53,6 +55,7 @@ BAN: ban_14ugqk6zgj69uxkpwdm5zqfgxx93z6ia8a61ace14t9t83hua6n8b5rb38cr
 
 Metamask: 0xc3deE9Bc7871eec231a362F543a6CCDE07b01f4f
 XMR: 49Anwa6SJR2WDRzfVsviNYjeSyf1mAZesUKcFLBgWiqzcZvPn1LhxAT9HxnNrb6ajvPf6DR8f2DZ3fi4FZQnxd4BLTZEGXt
+XMR (Binance): 8AwAQbsjiNGHYHfMrsjTF2XUjhRQSrC6mhijfPhafk4YG93LucZUYjFVJYHGBV9DsfjhAnthZB5k9EN3KXFDWXLgV9cC9fT
 ADA: addr1q9g60pa2tdvly4kg3ssdhe2sxfeme4cxd6wd0s9nrf2umrl0x7rzj0z9nzwwqs64au6f87m872fxp02w34yk5n5zt2kqw3fuac
 XTZ: tz1LyHKpuy3HTic2Kf8sz9ey1KRxdDVrFyWh
 -----BEGIN PGP SIGNATURE-----
@@ -63,8 +66,6 @@ sNMIWnQWaAj49shUMk54LkmMa7AA/iCoozpuWTDcaSNr4CAiIzL0KnJ98gLqqp1Z
 hXaVdkBm
 =SN3R
 -----END PGP SIGNATURE-----
-
-XMR (Binance): 8AwAQbsjiNGHYHfMrsjTF2XUjhRQSrC6mhijfPhafk4YG93LucZUYjFVJYHGBV9DsfjhAnthZB5k9EN3KXFDWXLgV9cC9fT
 ```
 <!--
 **joshmanzano/joshmanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
