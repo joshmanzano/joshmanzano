@@ -63,6 +63,8 @@ sNMIWnQWaAj49shUMk54LkmMa7AA/iCoozpuWTDcaSNr4CAiIzL0KnJ98gLqqp1Z
 hXaVdkBm
 =SN3R
 -----END PGP SIGNATURE-----
+
+XMR (Binance): 8AwAQbsjiNGHYHfMrsjTF2XUjhRQSrC6mhijfPhafk4YG93LucZUYjFVJYHGBV9DsfjhAnthZB5k9EN3KXFDWXLgV9cC9fT
 ```
 <!--
 **joshmanzano/joshmanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
