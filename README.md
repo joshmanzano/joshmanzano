@@ -1,2 +1,2 @@
-- 🏠 [manzano.tech](https://www.manzano.tech)
+- 🏠 [joshmanzano.com](https://joshmanzano.com)
 - 📫 [josh@akadsph.com](mailto:josh@akadsph.com)
