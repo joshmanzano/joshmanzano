@@ -2,7 +2,7 @@
 
 My name is `Josh`. 
 
-I'm a software engineer at Yahoo who likes to go freediving and rock climbing in my free time.
+I'm a software engineer at Yahoo who likes to go `freediving` and `rock climbing` in my free time.
 
 ## 📬 Contact me
 
