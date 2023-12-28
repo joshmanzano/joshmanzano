@@ -6,9 +6,9 @@ I'm a master's graduate at [NTUST](https://en.wikipedia.org/wiki/National_Taiwan
 
 ## 📬 Contact me
 
-- **Email**: [joshmanzano@duck.com](mailto:joshmanzano@duck.com) 
-- **Discord**: `joshmanzano` 
+- **Email**: [joshmanzano@duck.com](mailto:joshmanzano@duck.com)
 - **Telegram**: [@joshmanzano](https://t.me/joshmanzano)
+- **Discord**: `joshmanzano`
 
 My response might be delayed at times, but I'll do my best to respond promptly!
 
