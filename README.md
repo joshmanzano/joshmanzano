@@ -17,3 +17,5 @@ My response might be delayed at times, but I'll do my best to respond promptly!
 [*joshmanzano.com*](https://joshmanzano.com)
 
 [*linkedin.com/in/josh-manzano*](https://www.linkedin.com/in/josh-manzano/)
+
+[*ko-fi.com/joshmanzano*](https://ko-fi.com/joshmanzano)
