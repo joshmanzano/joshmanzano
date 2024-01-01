@@ -19,3 +19,7 @@ My response might be delayed at times, but I'll do my best to respond promptly!
 [*linkedin.com/in/josh-manzano*](https://www.linkedin.com/in/josh-manzano/)
 
 [*ko-fi.com/joshmanzano*](https://ko-fi.com/joshmanzano)
+
+[*mastodon.social/@joshmanzano*](https://mastodon.social/@joshmanzano)
+
+[*pixelfed.social (joshmanzano)*](https://pixelfed.social/i/web/profile/647160057461708957)
