@@ -8,7 +8,7 @@ I'm a master's graduate at [NTUST](https://en.wikipedia.org/wiki/National_Taiwan
 
 - **Email**: [joshmanzano@duck.com](mailto:joshmanzano@duck.com)
 - **Telegram**: [@joshmanzano](https://t.me/joshmanzano)
-- **Discord**: `joshmanzano`
+- **Wire**: `@joshmanzano`
 
 My response might be delayed at times, but I'll do my best to respond promptly!
 
