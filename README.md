@@ -8,7 +8,7 @@ I enjoy educating people for free and creating accessible, ethical software that
 
 ## 📬 Contact me
 
-- **Email**: [joshmanzano@duck.com](mailto:joshmanzano@duck.com)
+- **Email**: [josh@manzano.dev](mailto:josh@manzano.dev)
 - **Telegram**: [@joshmanzano](https://t.me/joshmanzano)
 - **Wire**: `@joshmanzano`
 
