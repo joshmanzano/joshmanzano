@@ -1,6 +1,7 @@
 # Josh Manzano
 
 This file contains a comprehensive list of my socials and online presence.
+Any online accounts or social media not listed here might be an impostor, make sure to verify.
 
 ## Links
 [*joshmanzano.com*](https://joshmanzano.com)
