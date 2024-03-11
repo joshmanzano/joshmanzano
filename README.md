@@ -19,4 +19,4 @@ My response might be delayed at times, but I'll do my best to respond promptly!
 
 [*ko-fi.com/joshmanzano*](https://ko-fi.com/joshmanzano)
 
-[*pixelfed.social (joshmanzano)*](https://pixelfed.social/i/web/profile/647160057461708957)
+[*patreon.com/joshmanzano*](https://www.patreon.com/JoshManzano)
