@@ -11,6 +11,8 @@ I enjoy educating people for free and creating accessible, ethical software that
 - **Email**: [josh@manzano.dev](mailto:josh@manzano.dev)
 - **Telegram**: [@joshmanzano](https://t.me/joshmanzano)
 
+I also have **Signal** (Messenger) -- contact me directly or via call to get my username.
+
 My response might be delayed at times, but I'll do my best to respond promptly!
 
 ---
