@@ -6,6 +6,8 @@ I'm a master's graduate at [NTUST](https://en.wikipedia.org/wiki/National_Taiwan
 
 I enjoy educating people for free and creating accessible, ethical software that benefits people in need.
 
+📍 I am currently based in **Taipei, Taiwan**.
+
 ## 📬 Contact me
 
 - **Email**: [josh@manzano.dev](mailto:josh@manzano.dev)
