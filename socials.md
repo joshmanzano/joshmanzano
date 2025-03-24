@@ -14,7 +14,10 @@ Any online accounts or social media not listed here might be an impostor, make s
 - **Discord**: `joshmanzano.com`
 
 ## Socials
-- **LinkedIn**: [joshmanzano-dev](https://www.linkedin.com/in/joshmanzano-dev/)
+- **LinkedIn**: [joshmzndev](https://www.linkedin.com/in/joshmzndev/)
+- **Facebook**: [@joshmzndev](https://www.facebook.com/joshmzndev)
+- **Instagram**: [@joshmzndev](https://www.instagram.com/joshmzndev)
+- **Twitter**: [@joshmzndev](https://www.twitter.com/joshmzndev)
 - **GitHub**: [@joshmanzano](https://github.com/joshmanzano)
 - **Ko-Fi**: [joshmanzano](https://ko-fi.com/joshmanzano)
 - **PixelFed**: [@joshmanzano](https://pixelfed.social/i/web/profile/647160057461708957)
